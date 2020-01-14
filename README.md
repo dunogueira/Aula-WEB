@@ -27,4 +27,4 @@ function adicionar() {
    } else {
        window.alert('valor invalido ou ja add na lista')
    }
-}
+}c
